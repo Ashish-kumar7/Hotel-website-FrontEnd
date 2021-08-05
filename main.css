@@ -2,14 +2,14 @@
 
 :root{
     --transition: all 0.7s ease;
-    --yellow: #f9d342;
-    --dark: #292826;
+    --blue: rgb(25, 158, 199);
+    --dark: #1a1918;
 }
 *{
     box-sizing: border-box;
     padding: 0;
     margin: 0;
-    font-family: 'Playfair Display', serif;
+    font-family: 'Playfair Display', Arial, Helvetica, sans-serif;
 }
 html{
     scroll-behavior: smooth;
@@ -30,8 +30,15 @@ body{
     cursor: pointer;
     transition: var(--transition);
 }
+.heading-name{
+  color: white;
+  padding: 1em 1.5em;
+  text-decoration: none;
+  text-transform: uppercase;
+}
 .btn:hover{
-    opacity: 0.85;
+    opacity: 100;
+    color: black
 }
 .flex{
     display: flex;
@@ -73,7 +80,7 @@ img{
     transition: var(--transition);
 }
 .head-top span:hover{
-    color: var(--yellow);
+    color: var(--blue);
 }
 .head-bottom{
     flex: 1;
@@ -169,7 +176,7 @@ img{
     padding-left: 12px;
 }
 .sign-up, .log-in{
-    background: var(--yellow);
+    background: var(--blue);
     color: #fff;
 }
 @media(max-width: 400px){
@@ -183,7 +190,7 @@ img{
     text-transform: uppercase;
     letter-spacing: 3px;
     font-size: 30px;
-    color: var(--yellow);
+    color: var(--blue);
     border-bottom: 5px solid var(--dark);
     width: 235px;
     margin: 15px 0;
@@ -217,7 +224,7 @@ img{
 .service-content button{
     margin-left: 0;
     margin-right: 0;
-    background: var(--yellow);
+    background: var(--blue);
     color: #fff;
 }
 @media(min-width: 992px){
@@ -227,7 +234,7 @@ img{
         grid-column-gap: 30px;
     }
     .title h2{
-        font-size: 10px!important;
+        font-size: 40px!important;
     }
 }
 @media(max-width: 500px){
@@ -327,7 +334,7 @@ img{
     padding: 7px 0;
 }
 .room-text ul li i{
-    color: var(--yellow);
+    color: var(--blue);
     margin-right: 10px;
 }
 .rate{
@@ -336,7 +343,7 @@ img{
 .rate span{
     font-size: 40px;
     font-weight: 900;
-    color: var(--yellow);
+    color: var(--blue);
 }
 .room-image{
     overflow: hidden;
@@ -398,7 +405,7 @@ img{
 }
 .rating{
     margin: 10px 0;
-    color: var(--yellow);
+    color: var(--blue);
 }
 .customer h3{
     font-size: 25px;

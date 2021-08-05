@@ -1,1 +1,6 @@
-# hotel1
+![page1](https://user-images.githubusercontent.com/50516579/128409385-e4efe12e-ac0a-44c8-9119-a32aafa855d2.PNG)
+![page2](https://user-images.githubusercontent.com/50516579/128409443-c9fb87e5-f3ad-4161-92ce-1da4db3076d1.PNG)
+![page3](https://user-images.githubusercontent.com/50516579/128409450-29853695-003e-472f-b414-673c539385dd.PNG)
+![page4](https://user-images.githubusercontent.com/50516579/128409453-c2c71ef4-7b66-4721-bad9-331e3d1eb651.PNG)
+![page5](https://user-images.githubusercontent.com/50516579/128409459-9ed988b9-8f8d-4a0b-bfa1-f71612802344.PNG)
+![page6](https://user-images.githubusercontent.com/50516579/128409465-7f8f5761-10ba-4f24-8929-7916e8796b7d.PNG)
